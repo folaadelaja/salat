@@ -23,10 +23,6 @@ Open http://localhost:8080. Production hosting needs HTTPS for location, compass
 - Daily hadith: seven verified references from Sahih al-Bukhari and Sahih Muslim, rotating by the selected location's calendar date (device date before a location is selected)
 - Home Screen installation and offline access to cached app assets and the last loaded prayer schedule; Quran audio requires a connection
 
-## Quran reader
-
-Browse all 114 surahs and 30 juz. Search by English/Arabic surah names or numbers, or juz number and starting surah. Uthmani Arabic is bold with adjustable text size. Last section and size are remembered; the last three opened sections are cached locally. New sections need internet access. Arabic text is fetched without modification from [Al Quran Cloud](https://alquran.cloud/api).
-
 ## Sources
 
 Prayer data: [AlAdhan](https://aladhan.com/prayer-times-api).
